@@ -7,11 +7,6 @@
 #include <stdlib.h>
 #include <assert.h>
 
-typedef struct node {
-    int data;
-    struct node *next;
-} node_t;
-
 void print(node_t *head) {
     node_t *current = head;
     while (current != NULL) {
