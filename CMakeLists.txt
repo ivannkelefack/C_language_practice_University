@@ -9,3 +9,4 @@ add_executable(exercice3  exercice3/pointercount.c)
 add_executable(exercice4  exercice4/exercice4.c)
 add_executable(exercice5  exercice5/exercice5.c)
 add_executable(exercice6  exercice6/exercice6.c)
+
