@@ -1,0 +1,8 @@
+//
+// Created by Ivan Nkelefack on 2026-06-13.
+//
+
+#ifndef C_LANGUAGE_UNIVERISTY_INPUT_INFO_H
+#define C_LANGUAGE_UNIVERISTY_INPUT_INFO_H
+
+#endif //C_LANGUAGE_UNIVERISTY_INPUT_INFO_H
