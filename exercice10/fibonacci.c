@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "fibonacci.h"
+
+int fibonacci(int n) {
+    if (n == 0) return 0;
+    if (n == 1) return 1;
+    return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
+int main() {
+    for (int i = 0; i <= 8; i++)
+        printf("fibonacci(%d) = %d\n", i, fibonacci(i));
+    return 0;
+}
